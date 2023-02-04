@@ -1,0 +1,20 @@
+{
+  "name": "Pug",
+  "symbol": "DOG",
+  "description": "Collection of 2 dogs on the blockchain. This is the number 2/2.",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Strength",
+      "value": "10"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

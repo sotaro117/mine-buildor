@@ -1,0 +1,15 @@
+{
+  "name": "Dog Collection",
+  "symbol": "DOG",
+  "description": "Collection of 2 dogs on the blockchain.",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

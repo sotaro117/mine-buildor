@@ -1,0 +1,20 @@
+{
+  "number": 2,
+  "symbol": "DOG",
+  "sellerFeeBasisPoints": 100,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "C3DaRYDJo5QTwovJ5hL2pefwkKKcJqD3xyQFNGZ1jZBp",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}

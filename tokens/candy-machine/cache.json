@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "FeRUHbtb2u3euTiYFw7QE2Bgx4re7j6kqzDja9HJur2d",
+    "candyGuard": "",
+    "candyMachineCreator": "ALzUJBmfeAbEyCK1j7Ms5hCMiyfbB9RZ9eT43CPi5DJX",
+    "collectionMint": "5ETVpS1WabrotQdEXT3vDAvkksxo8eEavy7Y1JUhG3Dp"
+  },
+  "items": {
+    "-1": {
+      "name": "Dog Collection",
+      "image_hash": "15f692103427182c1987706c404f87e9fbc5bbfdda4a65e82e24442eccc142dc",
+      "image_link": "https://arweave.net/7CE1cscW_lBeC-jO2xRlyMRUB3cMz0VwuCSezy6P8-s?ext=png",
+      "metadata_hash": "01e166b1a92e3f8d16dce397ebc12316eb1888b05440ff150300ceac4ff81389",
+      "metadata_link": "https://arweave.net/rmEAjg6hfLRVbRWqg6VxhQWvoDRSvvIBgNSrnpnFEIk",
+      "onChain": true
+    },
+    "0": {
+      "name": "St-Bernard",
+      "image_hash": "59ed610eaa0f2bbfd2d6a6280a3db591bd6b90dc86fa05ddb7f5e5c2d5ed4c9f",
+      "image_link": "https://arweave.net/44V6EqPOx8tTvbJIN0iMS1swnafjSe218Y41LZ74r-0?ext=png",
+      "metadata_hash": "cc296fb7c7ebd5e58cef31e2a5f87b29577beb89f0e08039b780bda1bf561eb8",
+      "metadata_link": "https://arweave.net/jz8iuPuiUEK_MOU2DQhHpUBFBcHlPbW0UnRJXKT3w0s",
+      "onChain": true
+    },
+    "1": {
+      "name": "Pug",
+      "image_hash": "e37a98bd591b837676178ca4f5b11cfb54be4234dbeec061719a230850412a94",
+      "image_link": "https://arweave.net/5mD026N3xGgFkY-zFxX57Iko_EqCs_RTevAxtNzV2FQ?ext=png",
+      "metadata_hash": "2ae99b03c87279a82127ad504807146bf3763f475f4ea9b7c27d9c24aeeec23d",
+      "metadata_link": "https://arweave.net/QJsc7Eg1X7L1ysz8SgfG2gffIlmFDifoR1egA4Oet2s",
+      "onChain": true
+    }
+  }
+}

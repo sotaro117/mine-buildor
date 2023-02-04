@@ -1,0 +1,20 @@
+{
+  "name": "St-Bernard",
+  "symbol": "DOG",
+  "description": "Collection of 2 dogs on the blockchain. This is the number 1/2.",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Strength",
+      "value": "5"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
